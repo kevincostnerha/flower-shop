@@ -1,9 +1,10 @@
 <template>
-    <h3 slot="title">
-        Create Account
-    </h3>
+
+    <lightning-card title="Create an Account" icon-name="standard:account">
+    
 
     <div class="slds-grid slds-box slds-theme_default slds-var-p-around_small">
         <lightning-record-form object-api-name={objectApiName} fields={fields} onsuccess={handleSuccess}></lightning-record-form>
     </div>
+    </lightning-card>
 </template>
