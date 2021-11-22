@@ -1,0 +1,28 @@
+<template>
+    <div class="slds-grid slds-box slds-theme_default slds-var-p-around_small">
+        <!-- 
+            need to add brackets to "handleSuccess" method (data binding) 
+            kebab objectApiName
+        -->
+        <lightning-record-edit-form object-api-name={objectApiName} record-id={recordId} onsuccess={handleSuccess}>
+            <!--fixed the tagging of lightning-input-field so that it matches closing tag-->
+            <lightning-input-field field-name={name}></lightning-input-field>
+            <lightning-input-field field-name={phone}></lightning-input-field>
+            
+            <!--fixed fieldName to field-name-->
+            <lightning-input-field field-name={website}></lightning-input-field>
+
+            
+            <lightning-input-field field-name={sla}></lightning-input-field>
+            <lightning-input-field field-name={slaExpiration}></lightning-input-field>
+            
+            
+            <!--fixed the closing tag so it matches opening tag-->
+            <lightning-input-field field-name={slaSerialNumber}></lightning-input-field>
+            
+            
+            <!--created closing tag-->
+            <lightning-button type="submit" label="Save" variant="brand"></lightning-button>
+        </lightning-record-edit-form>
+    </div>
+</template>
