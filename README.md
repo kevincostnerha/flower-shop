@@ -31,6 +31,6 @@ To-Do List
 4. CTRL + SHIFT + P - Click "Deploy This Source to Org" to deploy code to an Org.
   
 ## Usage
+![homepage](https://user-images.githubusercontent.com/29414102/145577975-3735e888-2a77-4835-8dcd-10a6665fa1b2.png)
 
-![Homepage](https://myoctocat.com/assets/images/base-octocat.svg)
 ## License
