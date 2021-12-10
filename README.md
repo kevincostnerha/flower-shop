@@ -25,7 +25,7 @@ To-Do List
 - Additional Styling
 
 ## Geting Started
-1. git clone <HTTPS>
+1. git clone [HTTPS]
 2. Open the folder in VS Code
 3. CTRL + SHIFT + P - Click "Authorize an Org" and choose a Salesforce Org to authorize.
 4. CTRL + SHIFT + P - Click "Deploy This Source to Org" to deploy code to an Org.
