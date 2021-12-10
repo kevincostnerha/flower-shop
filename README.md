@@ -31,6 +31,13 @@ To-Do List
 4. CTRL + SHIFT + P - Click "Deploy This Source to Org" to deploy code to an Org.
   
 ## Usage
+Users can navigate to the homepage which acts as a onestop shop. From there they'll be able to create an account nd lead as needed.
 ![homepage](https://user-images.githubusercontent.com/29414102/145577975-3735e888-2a77-4835-8dcd-10a6665fa1b2.png)
+  
+  In the About Me section, users will be able to see find out information about the company.
+![aboutme](https://user-images.githubusercontent.com/29414102/145578176-3b62b70c-2d21-4d45-9fc6-ce6c620ed180.png)
+  
+  In the Seasonal Roses section, users will be able to see which flowers are currently in season and available.
+![seasonal](https://user-images.githubusercontent.com/29414102/145578187-15f8566c-4a77-4e28-9fc4-3b55dbcd8db1.png)
 
 ## License
