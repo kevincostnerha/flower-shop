@@ -41,3 +41,4 @@ Users can navigate to the homepage which acts as a onestop shop. From there they
 ![seasonal](https://user-images.githubusercontent.com/29414102/145578187-15f8566c-4a77-4e28-9fc4-3b55dbcd8db1.png)
 
 ## License
+This project uses the following license: [MIT License](https://choosealicense.com/licenses/mit/).
